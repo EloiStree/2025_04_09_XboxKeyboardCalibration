@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.elab.xboxcalibrationxrEditor",          
+    "references": ["be.elab.xboxcalibrationxr"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
